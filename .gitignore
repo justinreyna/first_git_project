@@ -1,0 +1,10 @@
+#These are all the file we want to ignore, son!
+.DS_Store
+ignore_file.txt
+*.zip
+log/*.log
+*.gz
+log/*.log[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
