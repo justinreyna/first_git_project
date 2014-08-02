@@ -1,6 +1,7 @@
 #These are all the file we want to ignore, son!
 .DS_Store
 ignore_file.txt
+ignore_file2.txt
 *.zip
 log/*.log
 *.gz
